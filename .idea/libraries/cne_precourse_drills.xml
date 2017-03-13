@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cne-precourse-drills">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/cne-precourse-drills.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
